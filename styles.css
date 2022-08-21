@@ -1,6 +1,6 @@
 .default {
   border: 3px solid black;
-  padding-block: 50px;
+  padding: 50px;
   margin-top: 50px;
   background-color: aqua;
 }
